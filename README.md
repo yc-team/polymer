@@ -9,4 +9,5 @@ info for polymer
 * [Polymer 0.4.2 Released!](https://blog.polymer-project.org/releases/2014/10/02/release-0.4.2/)
 * [polymer-slidenav](http://component.kitchen/components/nobitagit/polymer-slidenav)
 * [What is the best practice for Polymer core-menu](http://stackoverflow.com/questions/24614680/what-is-the-best-practice-for-polymer-core-menu)
+* [Building single page apps using web components](https://www.polymer-project.org/articles/spa.html)
 
