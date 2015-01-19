@@ -14,4 +14,5 @@ post for polymer
 * [css-scoping in w3.org](http://dev.w3.org/csswg/css-scoping/#selectordef-deep)
 * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
 * [Shadow DOM CSS Cheat Sheet](http://robdodson.me/shadow-dom-css-cheat-sheet/)
+* [Why Web Components Are Ready For Production](http://developer.telerik.com/featured/web-components-ready-production/)
 
