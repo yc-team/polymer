@@ -12,4 +12,6 @@ post for polymer
 * [Building single page apps using web components](https://www.polymer-project.org/articles/spa.html)
 * [What do /deep/ and ::shadow mean in a CSS selector?](http://stackoverflow.com/questions/25609678/what-do-deep-and-shadow-mean-in-a-css-selector)
 * [css-scoping in w3.org](http://dev.w3.org/csswg/css-scoping/#selectordef-deep)
+* [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
+* [Shadow DOM CSS Cheat Sheet](http://robdodson.me/shadow-dom-css-cheat-sheet/)
 
