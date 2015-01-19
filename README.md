@@ -1,7 +1,7 @@
 polymer
 =======
 
-info for polymer
+post for polymer
 
 * [官网](http://www.polymer-project.org/)
 * [Google新的Web UI库：Polymer](http://www.csdn.net/article/2013-05-17/2815334-Polymer)
@@ -10,4 +10,5 @@ info for polymer
 * [polymer-slidenav](http://component.kitchen/components/nobitagit/polymer-slidenav)
 * [What is the best practice for Polymer core-menu](http://stackoverflow.com/questions/24614680/what-is-the-best-practice-for-polymer-core-menu)
 * [Building single page apps using web components](https://www.polymer-project.org/articles/spa.html)
+* [What do /deep/ and ::shadow mean in a CSS selector?](http://stackoverflow.com/questions/25609678/what-do-deep-and-shadow-mean-in-a-css-selector)
 
