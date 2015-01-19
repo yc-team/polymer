@@ -11,4 +11,5 @@ post for polymer
 * [What is the best practice for Polymer core-menu](http://stackoverflow.com/questions/24614680/what-is-the-best-practice-for-polymer-core-menu)
 * [Building single page apps using web components](https://www.polymer-project.org/articles/spa.html)
 * [What do /deep/ and ::shadow mean in a CSS selector?](http://stackoverflow.com/questions/25609678/what-do-deep-and-shadow-mean-in-a-css-selector)
+* [css-scoping in w3.org](http://dev.w3.org/csswg/css-scoping/#selectordef-deep)
 
