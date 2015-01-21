@@ -15,4 +15,7 @@ post for polymer
 * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
 * [Shadow DOM CSS Cheat Sheet](http://robdodson.me/shadow-dom-css-cheat-sheet/)
 * [Why Web Components Are Ready For Production](http://developer.telerik.com/featured/web-components-ready-production/)
+* [DOMException in platform js](https://groups.google.com/a/dartlang.org/forum/#!topic/web/bgMajiu_iR4)
+* [Project from scratch with yeoman and polymer uses polymer.js instead of webcomponents (polymer 0.5.1)](https://groups.google.com/forum/#!msg/polymer-dev/HTy9rohPPx0/98Ul5Mac6mUJ)
+* [Is there CDN for polymer elements?](http://stackoverflow.com/questions/24843397/is-there-cdn-for-polymer-elements/24850695#24850695)
 
