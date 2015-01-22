@@ -18,4 +18,7 @@ post for polymer
 * [DOMException in platform js](https://groups.google.com/a/dartlang.org/forum/#!topic/web/bgMajiu_iR4)
 * [Project from scratch with yeoman and polymer uses polymer.js instead of webcomponents (polymer 0.5.1)](https://groups.google.com/forum/#!msg/polymer-dev/HTy9rohPPx0/98Ul5Mac6mUJ)
 * [Is there CDN for polymer elements?](http://stackoverflow.com/questions/24843397/is-there-cdn-for-polymer-elements/24850695#24850695)
+* [Polymer throws error in Canary when registering an element via import](https://github.com/Polymer/polymer/issues/290)
+* [Polymer core-meta is already registered](http://stackoverflow.com/questions/24976620/polymer-core-meta-is-already-registered)
+* [Registration failed for type 'core-toolbar', already registered](http://stackoverflow.com/questions/25149457/registration-failed-for-type-core-toolbar-already-registered)
 
