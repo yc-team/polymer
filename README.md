@@ -22,4 +22,5 @@ post for polymer
 * [Polymer core-meta is already registered](http://stackoverflow.com/questions/24976620/polymer-core-meta-is-already-registered)
 * [Registration failed for type 'core-toolbar', already registered](http://stackoverflow.com/questions/25149457/registration-failed-for-type-core-toolbar-already-registered)
 * [Any way to make buttons work automagically like an input type="submit" ?](https://github.com/rnicholus/ajax-form/issues/27#issuecomment-64512558)
+* [Polymer: get the value of paper-input inside a paper-dialog after paper-button press “ok”](http://stackoverflow.com/questions/24594947/polymer-get-the-value-of-paper-input-inside-a-paper-dialog-after-paper-button-p)
 
